@@ -32,10 +32,10 @@ with col1:
     bmi = st.number_input("BMI", 10.0, 60.0, 25.0)
     glucose = st.number_input("Average Glucose Level", 50.0, 300.0, 100.0)
     hypertension = st.selectbox("Hypertension", [0, 1])
+    heart_disease = st.selectbox("Heart Disease", [0, 1])
 
 
 with col2:
-    heart_disease = st.selectbox("Heart Disease", [0, 1])
     gender = st.selectbox("Gender", ["Female", "Male", "Other"])
     married = st.selectbox("Ever Married", ["No", "Yes"])
     work_type = st.selectbox("Work Type", ["Private", "Self-employed", "Govt_job", "children", "Never_worked"])

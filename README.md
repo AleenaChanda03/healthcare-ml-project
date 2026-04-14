@@ -96,9 +96,8 @@ Automatically updates when changes are pushed to GitHub
 
 
 ## Future Improvements
-Add more advanced models (XGBoost, Neural Networks)
+Add more advanced models (Neural Networks)
 Improve UI/UX design
-Add model explainability (e.g., SHAP values)
 Integrate real-world healthcare datasets
 
 

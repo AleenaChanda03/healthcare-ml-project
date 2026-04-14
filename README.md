@@ -88,7 +88,7 @@ pip install -r requirements.txt
 # Run the app
 streamlit run app.py
 ```
-
+```md
 ## Deployment
 Deployed using Streamlit Cloud
 Automatically updates when changes are pushed to GitHub
@@ -106,7 +106,7 @@ Integrate real-world healthcare datasets
 Aleena Chanda
 GitHub: https://github.com/AleenaChanda03
 LinkedIn: https://www.linkedin.com/in/aleena-chanda-893137126/
-
+```
 
 
 

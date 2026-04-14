@@ -46,7 +46,13 @@ https://github.com/AleenaChanda03/healthcare-ml-project
   - Probability-based predictions
 
 ---
+## Model Insights
 
+### Feature Importance
+![Feature Importance](images/feature_importance.png)
+
+### ROC Curve
+![ROC Curve](images/roc_curve.png)
 ## Tech Stack
 
 - Python
